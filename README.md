@@ -25,7 +25,7 @@ Grafana dashboard
 **WorkFlow**
 ![Screenshot (6980)](https://github.com/user-attachments/assets/52db8176-4db3-47da-85b0-3d87188b6ae4)
 
-**Setup Process**
+***Setup Process:***
 
 
 
@@ -144,6 +144,37 @@ transactions for transparency and auditing purposes.
 
 **Usage Instructions:**
 The script will connect to Ethereum via Alchemy, monitor deposits on the specified contract, log deposit details to MongoDB, and send notifications to a Telegram chat.
+
+
+***ScreenShots***
+
+
+![Screenshot (6979)](https://github.com/user-attachments/assets/659a896c-c01b-4114-8372-8972cc9b3927)
+![Screenshot (6976)](https://github.com/user-attachments/assets/92873142-8254-45f3-90a5-85dfe685b9a2)
+![Screenshot (6973)](https://github.com/user-attachments/assets/31345a76-a6cf-4efc-8c91-8fe335604067)
+![Screenshot (6970)](https://github.com/user-attachments/assets/2342d48f-677c-46c4-8668-aae17cbe441a)
+![Screenshot (6969)](https://github.com/user-attachments/assets/4bb45fda-b546-4614-9b2c-dfb02114d55c)
+![Screenshot (6964)](https://github.com/user-attachments/assets/61aade44-18ae-40ba-87a3-28b5624dd524)
+![Screenshot (6963)](https://github.com/user-attachments/assets/62f80932-1c40-44e6-bca4-f4b8fa026cfd)
+![Screenshot (6961)](https://github.com/user-attachments/assets/bb1eb2e7-2767-41c8-bdaf-cc11b246af1a)
+![Screenshot (6959)](https://github.com/user-attachments/assets/3126034f-fba3-4cef-8098-6089afb11c5d)
+![Screenshot (6958)](https://github.com/user-attachments/assets/3d6d34da-9767-4322-9511-5b60e5f68629)
+![Screenshot (6956)](https://github.com/user-attachments/assets/7f58d083-9300-410c-b62b-db2e1ebb6752)
+![Screenshot (6955)](https://github.com/user-attachments/assets/b5ed800c-c710-4673-93af-e3ef86172297)
+![Screenshot (6952)](https://github.com/user-attachments/assets/3e148d09-fb0d-448a-a679-ef4dac1816e7)
+![Screenshot (6947)](https://github.com/user-attachments/assets/91cf9639-5043-4043-b031-62c82d82d77b)
+![Screenshot (6941)](https://github.com/user-attachments/assets/ccbbd8de-2b4e-484c-9179-1de7aa14eecc)
+![Screenshot (6940)](https://github.com/user-attachments/assets/7bb43a44-da91-4763-9e37-587b09ccbaae)
+
+
+
+
+
+***OUTPUT***
+
+![Screenshot (6981)](https://github.com/user-attachments/assets/cb46921d-7290-4d7e-930c-99f5d580cbe3)
+
+***VIDEO***
 
 
 
