@@ -1,6 +1,6 @@
 # Ethereum Deposit Tracker
 
-**Softwares Used**
+***Softwares Used***
 
 ·
 Alchemy Api key for rpc integration
@@ -21,6 +21,9 @@ Docker - kubernates
 ·
 Grafana dashboard
 
+
+**WorkFlow**
+![Screenshot (6980)](https://github.com/user-attachments/assets/52db8176-4db3-47da-85b0-3d87188b6ae4)
 
 **Setup Process**
 
