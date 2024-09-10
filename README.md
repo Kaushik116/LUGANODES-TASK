@@ -27,7 +27,7 @@ Grafana dashboard
 
 ***Setup Process:***
 
-
+USE ONLY index.js rest were for testing.
 
 **Install Dependencies:**
 
@@ -178,6 +178,14 @@ The script will connect to Ethereum via Alchemy, monitor deposits on the specifi
 # VIDEO
 
 https://github.com/user-attachments/assets/beb3a644-c313-408b-8ad4-31edd32328e5
+
+
+***MongoDB database output***
+
+
+https://github.com/user-attachments/assets/f1fb2845-d12c-48c0-9369-8c6aa33c0be5
+
+
 
 
  
