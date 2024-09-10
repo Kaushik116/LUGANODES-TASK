@@ -146,7 +146,7 @@ transactions for transparency and auditing purposes.
 The script will connect to Ethereum via Alchemy, monitor deposits on the specified contract, log deposit details to MongoDB, and send notifications to a Telegram chat.
 
 
-***ScreenShots***
+# ScreenShots
 
 
 ![Screenshot (6979)](https://github.com/user-attachments/assets/659a896c-c01b-4114-8372-8972cc9b3927)
@@ -170,11 +170,13 @@ The script will connect to Ethereum via Alchemy, monitor deposits on the specifi
 
 
 
-***OUTPUT***
+# OUTPUT
 
 ![Screenshot (6981)](https://github.com/user-attachments/assets/cb46921d-7290-4d7e-930c-99f5d580cbe3)
+![Screenshot (6982)](https://github.com/user-attachments/assets/02667e00-fe86-4281-a6d2-7ef966841102)
 
-***VIDEO***
+# VIDEO
+
 
 
 
