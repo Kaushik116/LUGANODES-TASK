@@ -1,5 +1,26 @@
 # Ethereum Deposit Tracker
 
+**Softwares Used**
+
+·
+Alchemy Api key for rpc integration
+
+
+·
+MongoDB for storing data
+
+·
+MongoDB Exporter for metrics
+
+·
+Prometheus
+
+·
+Docker - kubernates
+
+·
+Grafana dashboard
+
 
 **Setup Process**
 
