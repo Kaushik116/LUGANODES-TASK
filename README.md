@@ -59,6 +59,7 @@ cluster name of your choice)
 Create a database in
 ·    
 cluster of your choice, I have created a timeseries database
+
 ·
 Get the mongodb uri
 
@@ -78,8 +79,10 @@ provided token and chat id regarding the transactions and alerts
 
 ·
 Telegram bot of any name and get the bot token
+
 ·
 Then using get id bot get the chat id 
+
 ·
 Keep them noted
 
